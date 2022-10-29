@@ -28,7 +28,7 @@ SECTIONS
 	...
 	...
 	
-	.sprints 0x12345678 : {
+	.sprints : {
 		KEEP(*(.sprints))
 	}
 	
